@@ -40,6 +40,18 @@ Real-world implementations of grade management systems across different platform
 - Cross-platform Flutter app for Web, Desktop, and Mobile
 - Support for Excel import and grade calculation
 
+Dashboard
+  <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/07f40209-cc4c-4ac0-bf5f-65296aeb5a9b" />
+
+Gade Board
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/4aea702f-a5dc-4924-8885-bd1cc24e1863" />
+
+Statistics Table
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/25efd5c2-53ce-442b-9cac-119c701f7190" />
+
+Formula Board
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/e85fb192-5292-41c1-a920-738f3be359c7" />
+
 ---
 
 ## Project Structure
